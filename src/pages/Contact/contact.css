@@ -1,0 +1,12 @@
+.shop__contact svg{
+    color: var(--color-letter);
+    font-size: 50px;
+
+    margin-top: 2rem;
+}
+
+@media screen and (max-width: 650px) {
+    .app__wrapper_img iframe{
+        width: 450px;
+    }
+}

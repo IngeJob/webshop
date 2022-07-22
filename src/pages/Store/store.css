@@ -1,0 +1,23 @@
+
+.shop__store{
+    background: var(--color-bg);
+}
+
+.shop__store .shop__store-icon{
+    position: fixed;
+    z-index: 10;
+    right: 20px;
+    top: 28px;
+}
+
+@media screen and (max-width: 590px){
+    .shop__store .shop__store-icon{
+        right: 70px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .MuiPaper-root{
+        width: 380px ;
+    }
+}

@@ -1,0 +1,18 @@
+.shop__Cart{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    padding: 20px;
+}
+
+.shop__Cart h2{
+    color: var(--color-letter-hover);
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+@media screen and (max-width: 550px){
+    .shop__Cart{
+        width: 380px ;
+    }
+}

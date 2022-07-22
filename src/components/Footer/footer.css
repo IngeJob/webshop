@@ -1,0 +1,31 @@
+.shop__footer{
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+    background: var(--color-footer-hover);
+}
+
+.shop__footer-links{
+    flex: 1;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.shop__footer-links svg{
+    color: var(--color-letter);
+    margin: 0.5rem;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.shop__footer-links svg:hover{
+    color: var(--color-letter-hover);
+}
+
+.footer__copyright{
+    margin-top: 0.5rem;
+}

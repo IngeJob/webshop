@@ -10,6 +10,7 @@
 
 # production
 /build
+/ilustrator
 
 # misc
 .DS_Store

@@ -1,0 +1,11 @@
+.shop__header{
+    background: var(--color-bg);
+}
+
+.shop__header-h1{
+    margin-bottom: 1rem;
+}
+
+.shop__header-h1 h1{
+    align-self: center;
+}
