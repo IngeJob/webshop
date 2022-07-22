@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/webshop/static/css/main.749ea558.css",
-    "main.js": "/webshop/static/js/main.fdb2ca01.js",
-    "static/js/787.253ae3cd.chunk.js": "/webshop/static/js/787.253ae3cd.chunk.js",
-    "static/media/store.jpg": "/webshop/static/media/store.082f75daebd132fa220c.jpg",
-    "static/media/buy_online.jpg": "/webshop/static/media/buy_online.16129723234ace1dd497.jpg",
-    "static/media/clothes.jpg": "/webshop/static/media/clothes.6cc333e6f07db0592d0a.jpg",
-    "static/media/about.jpg": "/webshop/static/media/about.6e81075b216a98c1c147.jpg",
-    "static/media/offer.jpg": "/webshop/static/media/offer.c579cbf2ce579b30e501.jpg",
-    "static/media/tech.jpg": "/webshop/static/media/tech.ec16748c612200658eab.jpg",
-    "static/media/manager.jpg": "/webshop/static/media/manager.1e5c5bb268ea33ddc6d4.jpg",
-    "static/media/shopping.jpg": "/webshop/static/media/shopping.28661af5ad5e6a036f58.jpg",
-    "index.html": "/webshop/index.html",
-    "main.749ea558.css.map": "/webshop/static/css/main.749ea558.css.map",
-    "main.fdb2ca01.js.map": "/webshop/static/js/main.fdb2ca01.js.map",
-    "787.253ae3cd.chunk.js.map": "/webshop/static/js/787.253ae3cd.chunk.js.map"
+    "main.css": "/webshop/store/static/css/main.749ea558.css",
+    "main.js": "/webshop/store/static/js/main.c0784e2c.js",
+    "static/js/787.253ae3cd.chunk.js": "/webshop/store/static/js/787.253ae3cd.chunk.js",
+    "static/media/store.jpg": "/webshop/store/static/media/store.082f75daebd132fa220c.jpg",
+    "static/media/buy_online.jpg": "/webshop/store/static/media/buy_online.16129723234ace1dd497.jpg",
+    "static/media/clothes.jpg": "/webshop/store/static/media/clothes.6cc333e6f07db0592d0a.jpg",
+    "static/media/about.jpg": "/webshop/store/static/media/about.6e81075b216a98c1c147.jpg",
+    "static/media/offer.jpg": "/webshop/store/static/media/offer.c579cbf2ce579b30e501.jpg",
+    "static/media/tech.jpg": "/webshop/store/static/media/tech.ec16748c612200658eab.jpg",
+    "static/media/manager.jpg": "/webshop/store/static/media/manager.1e5c5bb268ea33ddc6d4.jpg",
+    "static/media/shopping.jpg": "/webshop/store/static/media/shopping.28661af5ad5e6a036f58.jpg",
+    "index.html": "/webshop/store/index.html",
+    "main.749ea558.css.map": "/webshop/store/static/css/main.749ea558.css.map",
+    "main.c0784e2c.js.map": "/webshop/store/static/js/main.c0784e2c.js.map",
+    "787.253ae3cd.chunk.js.map": "/webshop/store/static/js/787.253ae3cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.749ea558.css",
-    "static/js/main.fdb2ca01.js"
+    "static/js/main.c0784e2c.js"
   ]
 }
