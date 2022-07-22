@@ -20,10 +20,10 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/store' element={<Store />}  />
-        <Route path='/about' element={<About />} />
-        <Route path='/contact' element={<Contact />} /> 
+        <Route path='/webshop' element={<Home />} />
+        <Route path='/webshop/store' element={<Store />}  />
+        <Route path='/webshop/about' element={<About />} />
+        <Route path='/webshop/contact' element={<Contact />} /> 
       </Routes>
       <Footer />
     </>
