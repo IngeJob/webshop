@@ -6,10 +6,10 @@ import './navbar.css'
 
 const Menu = () => (
   <ul>
-    <li><a href='/'>Inicio</a></li>
-    <li><a href='/store'>Tienda</a></li>
-    <li><a href='/about'>Nuestra empresa</a></li>
-    <li><a href='/contact'>Contáctanos</a></li>
+    <li><a href='/webshop'>Inicio</a></li>
+    <li><a href='/webshop/store'>Tienda</a></li>
+    <li><a href='/webshop/about'>Nuestra empresa</a></li>
+    <li><a href='/webshop/contact'>Contáctanos</a></li>
   </ul>
 ) 
 
