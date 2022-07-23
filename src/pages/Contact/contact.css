@@ -1,4 +1,8 @@
-.shop__contact svg{
+.shop__contact{
+    background: var(--color-bg);
+}
+
+.shop__contact-info svg{
     color: var(--color-letter);
     font-size: 50px;
 

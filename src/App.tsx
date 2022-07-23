@@ -19,12 +19,13 @@ function App() {
   return (
     <>
       <Navbar />
-      <Routes>
-        <Route path='/webshop' element={<Home />} />
-        <Route path='/webshop/store' element={<Store />}  />
-        <Route path='/webshop/about' element={<About />} />
-        <Route path='/webshop/contact' element={<Contact />} /> 
-      </Routes>
+        <Routes >
+          <Route path='/webshop' element={<Home />} />
+          <Route path='/webshop/store' element={<Store />}  />
+          <Route path='/about' element={<About />} />
+          <Route path='/contact' element={<Contact />} /> 
+          <Route path='*' element={<h1>Página no encontrada</h1>} />
+        </Routes>
       <Footer />
     </>
   );

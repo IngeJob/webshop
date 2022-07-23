@@ -4,8 +4,8 @@ import './contact.css';
 
 const Contact = () => {
   return (
-    <div className='app__wrapper section__padding' id='contact'>
-    <div className='shop__contact app__wrapper_info'>
+    <div className='shop__contact app__wrapper section__padding' id='contact'>
+    <div className='shop__contact-info app__wrapper_info'>
       <h1 className='h1__cormorant'>Ya contamos con local físico</h1>
       <div className='app__wrapper-content'>
         <p className='p__opensans'>Cordova, Av. Simon Bolivar y Sudamerica</p>

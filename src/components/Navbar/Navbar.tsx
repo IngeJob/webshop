@@ -8,8 +8,8 @@ const Menu = () => (
   <ul>
     <li><a href='/webshop'>Inicio</a></li>
     <li><a href='/webshop/store'>Tienda</a></li>
-    <li><a href='/webshop/about'>Nuestra empresa</a></li>
-    <li><a href='/webshop/contact'>Contáctanos</a></li>
+    <li><a href='/about'>Nuestra empresa</a></li>
+    <li><a href='/contact'>Contáctanos</a></li>
   </ul>
 ) 
 
@@ -20,7 +20,7 @@ const Navbar = () => {
     <nav className='shop__navbar'>
       <div className='shop__navbar-links'>
         <div className='shop__navbar-links_logo'>
-          <a href='#home'><img src={logo} alt='logo' /></a>          
+          <a href='/webshop'><img src={logo} alt='logo' /></a>          
         </div>
         <div className='shop__navbar-links_container'>
           <Menu />
@@ -28,7 +28,7 @@ const Navbar = () => {
       </div>  
 
       <div className='shop__navbar-sign'>
-        <a href=''>Iniciar Sesión</a>
+        <a href='/'>Iniciar Sesión</a>
         <button >Registrarse</button>
       </div> 
       <div className='shop__navbar-menu'>
@@ -41,7 +41,7 @@ const Navbar = () => {
             <div className='shop__navbar-menu_container-links'>
               <Menu />                      
               <div className='shop__navbar-menu_container-links-sign'>
-                <a href=''>Iniciar Sesión</a>
+                <a href='/'>Iniciar Sesión</a>
                 <button >Registrarse</button>
               </div>
             </div>
